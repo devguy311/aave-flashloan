@@ -1,5 +1,5 @@
 # aave-flashloan-arbitrage
-This a smart contract for performing arbitrage with AAVE flashloan between Uniswap &amp; Sushiswap
+This a smart contract for performing arbitrage with AAVE flashloan between Uniswap &amp; Sushiswap 
 
 ## Features:
 Flashloans are one of the most exciting concept in the web3.0 & Defi industry, they allow users to borrow a large amounts of assets (ERC20) and use the them for any kind of application in condition that the borrowed money is returned in the same transaction.Many protocols provide the possibility of flashloan like aave, uniswap, dydx,...
